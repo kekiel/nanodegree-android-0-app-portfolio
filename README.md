@@ -1,4 +1,4 @@
-# nanodegree-android-0-app-portfolio
+# My App Portfolio
 First app project for Udacitys Android Developer Nanodegree curriculum.
 
 ##The goals of this project are:
